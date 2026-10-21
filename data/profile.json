@@ -1,0 +1,173 @@
+{
+  "username": "V1nic1us",
+  "name": "Marcus Vinícius",
+  "bio": "Quality Assurance @orangebr",
+  "company": "Orange Labs",
+  "location": "Brazil",
+  "blog": "",
+  "followers": 30,
+  "publicRepos": 112,
+  "ownRepos": 96,
+  "languages": [
+    {
+      "name": "JavaScript",
+      "percent": 23.0,
+      "color": "#f7df1e"
+    },
+    {
+      "name": "TypeScript",
+      "percent": 15.7,
+      "color": "#3178c6"
+    },
+    {
+      "name": "C#",
+      "percent": 15.4,
+      "color": "#512bd4"
+    },
+    {
+      "name": "Rust",
+      "percent": 14.1,
+      "color": "#dea584"
+    },
+    {
+      "name": "HTML",
+      "percent": 8.1,
+      "color": "#e34f26"
+    },
+    {
+      "name": "Kotlin",
+      "percent": 5.9,
+      "color": "#7f52ff"
+    },
+    {
+      "name": "Outras",
+      "percent": 17.8,
+      "color": "#77608e"
+    }
+  ],
+  "highlights": [
+    {
+      "name": "go-explorer",
+      "title": "GO EXPLORER",
+      "icon": "▤",
+      "description": "Explorador de arquivos no terminal, com arvore hierarquica e navegacao interativa via tview/tcell.",
+      "tags": [
+        "Go",
+        "TUI",
+        "tview",
+        "Terminal"
+      ]
+    },
+    {
+      "name": "music-streaming-app",
+      "title": "MUSIC STREAMING APP",
+      "icon": "♪",
+      "description": "Aplicativo mobile de streaming de musica construido com Kotlin e Jetpack Compose.",
+      "tags": [
+        "Kotlin",
+        "Jetpack Compose",
+        "Android"
+      ]
+    },
+    {
+      "name": "nix-config",
+      "title": "NIX CONFIG",
+      "icon": "❄",
+      "description": "Configuracao Nix portatil com Home Manager e NixOS, versionada e reproduzivel em qualquer maquina.",
+      "tags": [
+        "Nix",
+        "NixOS",
+        "Home Manager"
+      ]
+    },
+    {
+      "name": "calculadora-assembly",
+      "title": "CALCULADORA ASSEMBLY",
+      "icon": "▦",
+      "description": "Calculadora de inteiros de 64 bits em Assembly x86-64 para Linux, escrita em sintaxe Intel.",
+      "tags": [
+        "Assembly",
+        "x86-64",
+        "Linux"
+      ]
+    },
+    {
+      "name": "tauri-app",
+      "title": "TAURI APP",
+      "icon": "▣",
+      "description": "Aplicacao desktop multiplataforma com Tauri, React e TypeScript empacotando um front-end com backend em Rust.",
+      "tags": [
+        "Rust",
+        "React",
+        "TypeScript",
+        "Tauri"
+      ]
+    },
+    {
+      "name": "rinha-de-backend-2024",
+      "title": "RINHA DE BACKEND",
+      "icon": "⚡",
+      "description": "Participacao na Rinha de Backend 2024, desafio de alta performance e baixa latencia em Rust.",
+      "tags": [
+        "Rust",
+        "Backend",
+        "Performance"
+      ]
+    },
+    {
+      "name": "rpg-legend-bot",
+      "title": "RPG LEGEND BOT",
+      "icon": "◈",
+      "description": "Bot de Discord que auxilia jogadores de RPG de mesa a terem uma experiencia melhor nas aventuras.",
+      "tags": [
+        "Python",
+        "Discord",
+        "Bot"
+      ]
+    },
+    {
+      "name": "demo-sdk-android",
+      "title": "DEMO SDK ANDROID",
+      "icon": "▤",
+      "description": "Demonstracao da SDK v2 de pagamentos para Android, com integracao de leitura de codigo e transacoes.",
+      "tags": [
+        "Android",
+        "SDK",
+        "Pagamentos"
+      ]
+    }
+  ],
+  "social": [
+    {
+      "label": "GitHub",
+      "handle": "@V1nic1us",
+      "url": "https://github.com/V1nic1us",
+      "glyph": "G"
+    },
+    {
+      "label": "GitLab",
+      "handle": "@V1nic1us",
+      "url": "https://gitlab.com/V1nic1us",
+      "glyph": "L"
+    },
+    {
+      "label": "LinkedIn",
+      "handle": "Marcus Vinícius",
+      "url": "https://www.linkedin.com/in/marcus-vin%C3%ADcius-541a9b247/",
+      "glyph": "in"
+    },
+    {
+      "label": "Instagram",
+      "handle": "@marcusmarques16",
+      "url": "https://www.instagram.com/marcusmarques16/",
+      "glyph": "I"
+    },
+    {
+      "label": "Steam",
+      "handle": "76561198978458942",
+      "url": "https://steamcommunity.com/profiles/76561198978458942/",
+      "glyph": "S"
+    }
+  ],
+  "updatedAt": "2026-10-21 14:01 UTC"
+}
