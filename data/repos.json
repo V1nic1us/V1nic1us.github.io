@@ -1,0 +1,1284 @@
+[
+  {
+    "name": "V1nic1us",
+    "description": "",
+    "language": "Python",
+    "languages": [
+      "Python"
+    ],
+    "stars": 1,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/V1nic1us",
+    "pushedAt": "2026-10-21T04:56:45Z",
+    "topics": []
+  },
+  {
+    "name": "calculadora-assembly",
+    "description": "Calculadora de inteiros em Assembly x86-64 para Linux",
+    "language": "Assembly",
+    "languages": [
+      "Assembly",
+      "Makefile"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/calculadora-assembly",
+    "pushedAt": "2026-09-05T15:31:26Z",
+    "topics": []
+  },
+  {
+    "name": "nix-config",
+    "description": "Configuração Nix portátil com Home Manager e NixOS",
+    "language": "Nix",
+    "languages": [
+      "Nix"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/nix-config",
+    "pushedAt": "2026-09-03T20:47:09Z",
+    "topics": []
+  },
+  {
+    "name": "lfs",
+    "description": "",
+    "language": "Shell",
+    "languages": [
+      "Shell"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/lfs",
+    "pushedAt": "2026-07-23T04:43:29Z",
+    "topics": []
+  },
+  {
+    "name": "rustlings",
+    "description": "",
+    "language": "Rust",
+    "languages": [
+      "Rust"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/rustlings",
+    "pushedAt": "2026-05-27T22:43:09Z",
+    "topics": []
+  },
+  {
+    "name": "V1nic1us.github.io",
+    "description": "",
+    "language": "HTML",
+    "languages": [
+      "HTML"
+    ],
+    "stars": 1,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/V1nic1us.github.io",
+    "pushedAt": "2026-05-21T14:48:46Z",
+    "topics": []
+  },
+  {
+    "name": "music-streaming-app",
+    "description": "",
+    "language": "Kotlin",
+    "languages": [
+      "Kotlin"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/music-streaming-app",
+    "pushedAt": "2026-05-14T14:20:52Z",
+    "topics": []
+  },
+  {
+    "name": "go-explorer",
+    "description": "A terminal-based file explorer developed in Go, using the tview and tcell libraries to create a terminal interactive user interface (TUI).",
+    "language": "Go",
+    "languages": [
+      "Go"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/go-explorer",
+    "pushedAt": "2025-10-30T16:12:46Z",
+    "topics": [
+      "explorer",
+      "hacktoberfest",
+      "terminal",
+      "tui"
+    ]
+  },
+  {
+    "name": "github-activity-go",
+    "description": "",
+    "language": "Go",
+    "languages": [
+      "Go",
+      "Shell"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/github-activity-go",
+    "pushedAt": "2025-08-28T04:04:57Z",
+    "topics": []
+  },
+  {
+    "name": "printer-configurator",
+    "description": "",
+    "language": "Python",
+    "languages": [
+      "Python"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/printer-configurator",
+    "pushedAt": "2025-08-26T04:56:24Z",
+    "topics": []
+  },
+  {
+    "name": "number-guessing-game-go",
+    "description": "",
+    "language": "",
+    "languages": [],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/number-guessing-game-go",
+    "pushedAt": "2025-05-22T03:48:28Z",
+    "topics": []
+  },
+  {
+    "name": "expense-tracker-go",
+    "description": "",
+    "language": "Go",
+    "languages": [
+      "Go",
+      "Shell"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/expense-tracker-go",
+    "pushedAt": "2025-05-22T03:11:05Z",
+    "topics": []
+  },
+  {
+    "name": "portfolio.github.io",
+    "description": "",
+    "language": "",
+    "languages": [],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/portfolio.github.io",
+    "pushedAt": "2025-05-11T04:54:22Z",
+    "topics": []
+  },
+  {
+    "name": "superheroes-kotlin",
+    "description": "",
+    "language": "Kotlin",
+    "languages": [
+      "Kotlin"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/superheroes-kotlin",
+    "pushedAt": "2025-04-16T16:55:33Z",
+    "topics": []
+  },
+  {
+    "name": "tauri-app",
+    "description": "",
+    "language": "Rust",
+    "languages": [
+      "Rust",
+      "TypeScript",
+      "CSS",
+      "HTML"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/tauri-app",
+    "pushedAt": "2025-03-10T18:55:47Z",
+    "topics": []
+  },
+  {
+    "name": "linux-projeto2-iac",
+    "description": "Script para provisionamento de um servidor Apache",
+    "language": "Shell",
+    "languages": [
+      "Shell"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/linux-projeto2-iac",
+    "pushedAt": "2025-02-28T01:32:28Z",
+    "topics": []
+  },
+  {
+    "name": "hello-submodule",
+    "description": "",
+    "language": "Go",
+    "languages": [
+      "Go"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/hello-submodule",
+    "pushedAt": "2025-02-15T13:23:26Z",
+    "topics": []
+  },
+  {
+    "name": "git-submodule",
+    "description": "",
+    "language": "",
+    "languages": [],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/git-submodule",
+    "pushedAt": "2025-02-15T13:15:10Z",
+    "topics": []
+  },
+  {
+    "name": "ifood-electron",
+    "description": "",
+    "language": "JavaScript",
+    "languages": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/ifood-electron",
+    "pushedAt": "2025-02-14T13:48:08Z",
+    "topics": []
+  },
+  {
+    "name": "linux-projeto1-iac",
+    "description": "Arquivos de Bash Script para IaC criados no curso de Linux da DIO.me",
+    "language": "Shell",
+    "languages": [
+      "Shell"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/linux-projeto1-iac",
+    "pushedAt": "2025-01-20T22:11:16Z",
+    "topics": []
+  },
+  {
+    "name": "task-tracker-go",
+    "description": "",
+    "language": "Go",
+    "languages": [
+      "Go",
+      "Shell"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/task-tracker-go",
+    "pushedAt": "2024-12-28T03:32:18Z",
+    "topics": []
+  },
+  {
+    "name": "calculator-in-c",
+    "description": "",
+    "language": "C",
+    "languages": [
+      "C"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/calculator-in-c",
+    "pushedAt": "2024-12-08T18:03:51Z",
+    "topics": []
+  },
+  {
+    "name": "calculadora-go",
+    "description": "",
+    "language": "Go",
+    "languages": [
+      "Go"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/calculadora-go",
+    "pushedAt": "2024-11-30T03:53:30Z",
+    "topics": []
+  },
+  {
+    "name": "api-rest-go-dio",
+    "description": "",
+    "language": "Go",
+    "languages": [
+      "Go"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/api-rest-go-dio",
+    "pushedAt": "2024-11-21T02:38:48Z",
+    "topics": []
+  },
+  {
+    "name": "compose-quadrant",
+    "description": "",
+    "language": "Kotlin",
+    "languages": [
+      "Kotlin"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/compose-quadrant",
+    "pushedAt": "2024-11-10T07:03:14Z",
+    "topics": []
+  },
+  {
+    "name": "task-manager",
+    "description": "",
+    "language": "Kotlin",
+    "languages": [
+      "Kotlin"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/task-manager",
+    "pushedAt": "2024-11-10T05:00:43Z",
+    "topics": []
+  },
+  {
+    "name": "Jetpack-compose-tutorial",
+    "description": "",
+    "language": "Kotlin",
+    "languages": [
+      "Kotlin"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/Jetpack-compose-tutorial",
+    "pushedAt": "2024-11-10T04:15:39Z",
+    "topics": []
+  },
+  {
+    "name": "ping-pong-challenge-in-go",
+    "description": "",
+    "language": "Go",
+    "languages": [
+      "Go"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/ping-pong-challenge-in-go",
+    "pushedAt": "2024-11-06T01:51:59Z",
+    "topics": []
+  },
+  {
+    "name": "numerical-problems",
+    "description": "",
+    "language": "Go",
+    "languages": [
+      "Go"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/numerical-problems",
+    "pushedAt": "2024-10-31T02:55:14Z",
+    "topics": []
+  },
+  {
+    "name": "setup-config",
+    "description": "",
+    "language": "Shell",
+    "languages": [
+      "Shell"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/setup-config",
+    "pushedAt": "2024-10-24T16:01:02Z",
+    "topics": []
+  },
+  {
+    "name": "thermological-scale-conversion-go",
+    "description": "",
+    "language": "Go",
+    "languages": [
+      "Go"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/thermological-scale-conversion-go",
+    "pushedAt": "2024-10-23T02:59:56Z",
+    "topics": []
+  },
+  {
+    "name": "lab-banco-digital-oo",
+    "description": "",
+    "language": "Java",
+    "languages": [
+      "Java"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/lab-banco-digital-oo",
+    "pushedAt": "2024-10-22T04:07:44Z",
+    "topics": []
+  },
+  {
+    "name": "boilerplate-mochachai",
+    "description": "",
+    "language": "JavaScript",
+    "languages": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/boilerplate-mochachai",
+    "pushedAt": "2024-09-24T23:14:17Z",
+    "topics": []
+  },
+  {
+    "name": "movie-reservation-system-rust",
+    "description": "",
+    "language": "Rust",
+    "languages": [
+      "Rust"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/movie-reservation-system-rust",
+    "pushedAt": "2024-09-21T12:52:42Z",
+    "topics": []
+  },
+  {
+    "name": "UML-iPhone",
+    "description": "",
+    "language": "",
+    "languages": [],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/UML-iPhone",
+    "pushedAt": "2024-07-19T03:02:20Z",
+    "topics": []
+  },
+  {
+    "name": "DesafioControleFluxo",
+    "description": "",
+    "language": "Java",
+    "languages": [
+      "Java"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/DesafioControleFluxo",
+    "pushedAt": "2024-07-19T02:27:44Z",
+    "topics": []
+  },
+  {
+    "name": "dio-trilha-java-basico",
+    "description": "",
+    "language": "Java",
+    "languages": [
+      "Java"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/dio-trilha-java-basico",
+    "pushedAt": "2024-07-09T16:09:17Z",
+    "topics": []
+  },
+  {
+    "name": "meu-primeiro-app-dio",
+    "description": "",
+    "language": "Kotlin",
+    "languages": [
+      "Kotlin"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/meu-primeiro-app-dio",
+    "pushedAt": "2024-07-05T15:33:12Z",
+    "topics": []
+  },
+  {
+    "name": "exercises-in-rust",
+    "description": "",
+    "language": "Rust",
+    "languages": [
+      "Rust"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/exercises-in-rust",
+    "pushedAt": "2024-06-15T04:39:09Z",
+    "topics": []
+  },
+  {
+    "name": "CS50G-week-0",
+    "description": "",
+    "language": "Lua",
+    "languages": [
+      "Lua"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/CS50G-week-0",
+    "pushedAt": "2024-06-11T12:36:55Z",
+    "topics": []
+  },
+  {
+    "name": "app-rust-leptos",
+    "description": "",
+    "language": "Rust",
+    "languages": [
+      "Rust",
+      "CSS",
+      "HTML"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/app-rust-leptos",
+    "pushedAt": "2024-05-01T02:06:12Z",
+    "topics": []
+  },
+  {
+    "name": "rinha-de-backend-2024",
+    "description": "",
+    "language": "Rust",
+    "languages": [
+      "Rust"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/rinha-de-backend-2024",
+    "pushedAt": "2024-02-20T18:09:09Z",
+    "topics": []
+  },
+  {
+    "name": "rpg-legend-bot",
+    "description": "",
+    "language": "Python",
+    "languages": [
+      "Python"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/rpg-legend-bot",
+    "pushedAt": "2024-01-29T05:21:51Z",
+    "topics": []
+  },
+  {
+    "name": "sales-web-mvc",
+    "description": "sistema web de vendas usando o ASP.NET CORE e o docker ",
+    "language": "C#",
+    "languages": [
+      "C#",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "stars": 1,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/sales-web-mvc",
+    "pushedAt": "2023-12-28T03:21:43Z",
+    "topics": []
+  },
+  {
+    "name": "csharp-exercise-extension-methods",
+    "description": "",
+    "language": "C#",
+    "languages": [
+      "C#"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/csharp-exercise-extension-methods",
+    "pushedAt": "2023-11-25T05:14:20Z",
+    "topics": []
+  },
+  {
+    "name": "csharp-exercise-typeset2",
+    "description": "",
+    "language": "C#",
+    "languages": [
+      "C#"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/csharp-exercise-typeset2",
+    "pushedAt": "2023-11-25T04:52:18Z",
+    "topics": []
+  },
+  {
+    "name": "csharp-exercise-dictionary",
+    "description": "",
+    "language": "C#",
+    "languages": [
+      "C#"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/csharp-exercise-dictionary",
+    "pushedAt": "2023-11-25T04:27:26Z",
+    "topics": []
+  },
+  {
+    "name": "csharp-exercise-typeset",
+    "description": "",
+    "language": "C#",
+    "languages": [
+      "C#"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/csharp-exercise-typeset",
+    "pushedAt": "2023-11-24T20:17:41Z",
+    "topics": []
+  },
+  {
+    "name": "csharp-exercise-interfaces",
+    "description": "",
+    "language": "C#",
+    "languages": [
+      "C#"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/csharp-exercise-interfaces",
+    "pushedAt": "2023-11-23T04:27:29Z",
+    "topics": []
+  },
+  {
+    "name": "csharp-exercise-file",
+    "description": "",
+    "language": "C#",
+    "languages": [
+      "C#"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/csharp-exercise-file",
+    "pushedAt": "2023-11-23T03:32:56Z",
+    "topics": []
+  },
+  {
+    "name": "xadrez-console",
+    "description": "",
+    "language": "C#",
+    "languages": [
+      "C#"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/xadrez-console",
+    "pushedAt": "2023-11-21T04:33:31Z",
+    "topics": []
+  },
+  {
+    "name": "studying-docker",
+    "description": "",
+    "language": "",
+    "languages": [],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/studying-docker",
+    "pushedAt": "2023-11-20T01:05:08Z",
+    "topics": []
+  },
+  {
+    "name": "design-patterns-study",
+    "description": "",
+    "language": "TypeScript",
+    "languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/design-patterns-study",
+    "pushedAt": "2023-11-19T19:34:17Z",
+    "topics": []
+  },
+  {
+    "name": "java-todoList",
+    "description": "",
+    "language": "Java",
+    "languages": [
+      "Java",
+      "Dockerfile"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/java-todoList",
+    "pushedAt": "2023-11-14T04:50:13Z",
+    "topics": []
+  },
+  {
+    "name": "csharp-exercise-abstracted-methods2",
+    "description": "",
+    "language": "C#",
+    "languages": [
+      "C#"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/csharp-exercise-abstracted-methods2",
+    "pushedAt": "2023-11-13T01:36:03Z",
+    "topics": []
+  },
+  {
+    "name": "csharp-exercise-abstracted-methods",
+    "description": "",
+    "language": "C#",
+    "languages": [
+      "C#"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/csharp-exercise-abstracted-methods",
+    "pushedAt": "2023-11-12T21:52:34Z",
+    "topics": []
+  },
+  {
+    "name": "csharp-exercise-exceptiom",
+    "description": "",
+    "language": "C#",
+    "languages": [
+      "C#"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/csharp-exercise-exceptiom",
+    "pushedAt": "2023-11-12T18:44:46Z",
+    "topics": []
+  },
+  {
+    "name": "csharp-exception",
+    "description": "",
+    "language": "C#",
+    "languages": [
+      "C#"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/csharp-exception",
+    "pushedAt": "2023-11-06T00:34:43Z",
+    "topics": []
+  },
+  {
+    "name": "csharp-exercise-inheritance-and-polymorphism-2",
+    "description": "",
+    "language": "C#",
+    "languages": [
+      "C#"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/csharp-exercise-inheritance-and-polymorphism-2",
+    "pushedAt": "2023-11-05T01:37:04Z",
+    "topics": []
+  },
+  {
+    "name": "csharp-exercise-inheritance-and-polymorphism",
+    "description": "",
+    "language": "C#",
+    "languages": [
+      "C#"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/csharp-exercise-inheritance-and-polymorphism",
+    "pushedAt": "2023-11-04T22:23:09Z",
+    "topics": []
+  },
+  {
+    "name": "csharp-inheritance-and-polymorphism",
+    "description": "",
+    "language": "C#",
+    "languages": [
+      "C#"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/csharp-inheritance-and-polymorphism",
+    "pushedAt": "2023-11-04T18:44:13Z",
+    "topics": []
+  },
+  {
+    "name": "csharp-exercise-enum-comp",
+    "description": "",
+    "language": "C#",
+    "languages": [
+      "C#"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/csharp-exercise-enum-comp",
+    "pushedAt": "2023-11-03T04:20:21Z",
+    "topics": []
+  },
+  {
+    "name": "csharp-exercise-stringbuilder",
+    "description": "",
+    "language": "C#",
+    "languages": [
+      "C#"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/csharp-exercise-stringbuilder",
+    "pushedAt": "2023-11-03T01:45:17Z",
+    "topics": []
+  },
+  {
+    "name": "csharp-exercise-enum",
+    "description": "repository created to learn C#",
+    "language": "C#",
+    "languages": [
+      "C#"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/csharp-exercise-enum",
+    "pushedAt": "2023-11-02T23:52:38Z",
+    "topics": []
+  },
+  {
+    "name": "Hacktoberfest-Guide-2023",
+    "description": "Welcome to the \"Hacktoberfest Guide\" repository! This is your official guide to participating in Hacktoberfest, a global event that celebrates collaboration and contributions to open-source projects. Hacktoberfest is an exciting opportunity to learn, enhance your programming skills, and be a part of a passionate developer community.",
+    "language": "",
+    "languages": [],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/Hacktoberfest-Guide-2023",
+    "pushedAt": "2023-11-01T03:44:39Z",
+    "topics": [
+      "hacktoberfest",
+      "hacktoberfest2023"
+    ]
+  },
+  {
+    "name": "CSharpOOPExercise2",
+    "description": "",
+    "language": "C#",
+    "languages": [
+      "C#"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/CSharpOOPExercise2",
+    "pushedAt": "2023-11-01T03:02:18Z",
+    "topics": []
+  },
+  {
+    "name": "CSharpOOPExercise1",
+    "description": "",
+    "language": "C#",
+    "languages": [
+      "C#"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/CSharpOOPExercise1",
+    "pushedAt": "2023-11-01T03:00:58Z",
+    "topics": []
+  },
+  {
+    "name": "csharp-exercise-list",
+    "description": "",
+    "language": "C#",
+    "languages": [
+      "C#"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/csharp-exercise-list",
+    "pushedAt": "2023-11-01T02:49:38Z",
+    "topics": []
+  },
+  {
+    "name": "OOPInCSharp",
+    "description": "Repository created to study OOP in CSharp",
+    "language": "C#",
+    "languages": [
+      "C#"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/OOPInCSharp",
+    "pushedAt": "2023-10-09T16:15:43Z",
+    "topics": []
+  },
+  {
+    "name": "DataEntryInCShap",
+    "description": "",
+    "language": "C#",
+    "languages": [
+      "C#"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/DataEntryInCShap",
+    "pushedAt": "2023-10-02T02:09:05Z",
+    "topics": []
+  },
+  {
+    "name": "nextjs-study",
+    "description": "",
+    "language": "TypeScript",
+    "languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/nextjs-study",
+    "pushedAt": "2023-09-20T04:44:25Z",
+    "topics": []
+  },
+  {
+    "name": "typescript-pomodoro-react",
+    "description": "",
+    "language": "TypeScript",
+    "languages": [
+      "TypeScript",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/typescript-pomodoro-react",
+    "pushedAt": "2023-09-14T03:40:08Z",
+    "topics": []
+  },
+  {
+    "name": "typescript-jest-test",
+    "description": "",
+    "language": "TypeScript",
+    "languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/typescript-jest-test",
+    "pushedAt": "2023-09-10T04:44:42Z",
+    "topics": []
+  },
+  {
+    "name": "typescript-solid",
+    "description": "",
+    "language": "TypeScript",
+    "languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/typescript-solid",
+    "pushedAt": "2023-08-25T03:32:53Z",
+    "topics": []
+  },
+  {
+    "name": "curso-typescript",
+    "description": "",
+    "language": "TypeScript",
+    "languages": [
+      "TypeScript",
+      "JavaScript"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/curso-typescript",
+    "pushedAt": "2023-08-17T17:09:50Z",
+    "topics": []
+  },
+  {
+    "name": "exp-reg",
+    "description": "",
+    "language": "JavaScript",
+    "languages": [
+      "JavaScript"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/exp-reg",
+    "pushedAt": "2023-07-31T04:37:35Z",
+    "topics": []
+  },
+  {
+    "name": "api-rest",
+    "description": "",
+    "language": "JavaScript",
+    "languages": [
+      "JavaScript"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/api-rest",
+    "pushedAt": "2023-07-12T19:25:46Z",
+    "topics": []
+  },
+  {
+    "name": "front-end-react",
+    "description": "",
+    "language": "JavaScript",
+    "languages": [
+      "JavaScript",
+      "HTML"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/front-end-react",
+    "pushedAt": "2023-07-06T01:33:13Z",
+    "topics": []
+  },
+  {
+    "name": "rocketseat-portfolio-challenge",
+    "description": "",
+    "language": "",
+    "languages": [],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/rocketseat-portfolio-challenge",
+    "pushedAt": "2023-06-27T19:58:40Z",
+    "topics": []
+  },
+  {
+    "name": "react-base",
+    "description": "",
+    "language": "JavaScript",
+    "languages": [
+      "JavaScript",
+      "HTML"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/react-base",
+    "pushedAt": "2023-06-16T04:06:33Z",
+    "topics": []
+  },
+  {
+    "name": "lista-de-tarefas",
+    "description": "",
+    "language": "JavaScript",
+    "languages": [
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/lista-de-tarefas",
+    "pushedAt": "2023-06-02T21:46:56Z",
+    "topics": []
+  },
+  {
+    "name": "projeto-agenda",
+    "description": "",
+    "language": "JavaScript",
+    "languages": [
+      "JavaScript",
+      "EJS"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/projeto-agenda",
+    "pushedAt": "2023-04-19T19:10:46Z",
+    "topics": []
+  },
+  {
+    "name": "modelo-mvc",
+    "description": "",
+    "language": "JavaScript",
+    "languages": [
+      "JavaScript",
+      "CSS",
+      "EJS"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/modelo-mvc",
+    "pushedAt": "2023-04-09T06:37:57Z",
+    "topics": []
+  },
+  {
+    "name": "express",
+    "description": "",
+    "language": "JavaScript",
+    "languages": [
+      "JavaScript",
+      "CSS",
+      "EJS"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/express",
+    "pushedAt": "2023-04-06T04:39:03Z",
+    "topics": []
+  },
+  {
+    "name": "webpack-modelo-novo",
+    "description": "",
+    "language": "JavaScript",
+    "languages": [
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/webpack-modelo-novo",
+    "pushedAt": "2023-03-26T03:49:34Z",
+    "topics": []
+  },
+  {
+    "name": "password-generator",
+    "description": "",
+    "language": "",
+    "languages": [],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/password-generator",
+    "pushedAt": "2023-03-23T17:14:27Z",
+    "topics": []
+  },
+  {
+    "name": "ES6-Modules",
+    "description": "",
+    "language": "JavaScript",
+    "languages": [
+      "JavaScript",
+      "HTML"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/ES6-Modules",
+    "pushedAt": "2023-03-20T21:06:29Z",
+    "topics": []
+  },
+  {
+    "name": "webpack-modelo",
+    "description": "",
+    "language": "JavaScript",
+    "languages": [
+      "JavaScript",
+      "HTML"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/webpack-modelo",
+    "pushedAt": "2023-03-20T15:50:16Z",
+    "topics": []
+  },
+  {
+    "name": "babel-modelo",
+    "description": "",
+    "language": "JavaScript",
+    "languages": [
+      "JavaScript"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/babel-modelo",
+    "pushedAt": "2023-03-18T22:54:40Z",
+    "topics": []
+  },
+  {
+    "name": "cpf-validator-class",
+    "description": "",
+    "language": "JavaScript",
+    "languages": [
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/cpf-validator-class",
+    "pushedAt": "2023-03-08T14:04:18Z",
+    "topics": []
+  },
+  {
+    "name": "cpf-validator",
+    "description": "",
+    "language": "JavaScript",
+    "languages": [
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/cpf-validator",
+    "pushedAt": "2023-03-08T03:58:53Z",
+    "topics": []
+  },
+  {
+    "name": "calculator",
+    "description": "",
+    "language": "JavaScript",
+    "languages": [
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/calculator",
+    "pushedAt": "2023-02-21T03:33:30Z",
+    "topics": []
+  },
+  {
+    "name": "TaskList",
+    "description": "",
+    "language": "JavaScript",
+    "languages": [
+      "JavaScript",
+      "CSS",
+      "HTML"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/TaskList",
+    "pushedAt": "2023-02-15T04:34:11Z",
+    "topics": []
+  },
+  {
+    "name": "hackrnews",
+    "description": "",
+    "language": "",
+    "languages": [],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/hackrnews",
+    "pushedAt": "2023-02-02T16:11:30Z",
+    "topics": []
+  },
+  {
+    "name": "cypress-avan-ado",
+    "description": "",
+    "language": "JavaScript",
+    "languages": [
+      "JavaScript"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/cypress-avan-ado",
+    "pushedAt": "2023-02-02T15:03:28Z",
+    "topics": []
+  },
+  {
+    "name": "jest",
+    "description": "",
+    "language": "",
+    "languages": [],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/jest",
+    "pushedAt": "2022-12-15T21:32:38Z",
+    "topics": []
+  }
+]
