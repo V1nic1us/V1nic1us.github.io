@@ -9,7 +9,21 @@
     "stars": 1,
     "forks": 0,
     "url": "https://github.com/V1nic1us/V1nic1us",
-    "pushedAt": "2026-10-21T04:56:45Z",
+    "pushedAt": "2026-10-22T02:08:12Z",
+    "topics": []
+  },
+  {
+    "name": "V1nic1us.github.io",
+    "description": "",
+    "language": "HTML",
+    "languages": [
+      "HTML",
+      "Python"
+    ],
+    "stars": 1,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/V1nic1us.github.io",
+    "pushedAt": "2026-10-21T15:00:51Z",
     "topics": []
   },
   {
@@ -63,19 +77,6 @@
     "forks": 0,
     "url": "https://github.com/V1nic1us/rustlings",
     "pushedAt": "2026-05-27T22:43:09Z",
-    "topics": []
-  },
-  {
-    "name": "V1nic1us.github.io",
-    "description": "",
-    "language": "HTML",
-    "languages": [
-      "HTML"
-    ],
-    "stars": 1,
-    "forks": 0,
-    "url": "https://github.com/V1nic1us/V1nic1us.github.io",
-    "pushedAt": "2026-05-21T14:48:46Z",
     "topics": []
   },
   {

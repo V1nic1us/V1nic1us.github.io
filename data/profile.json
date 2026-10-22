@@ -11,37 +11,37 @@
   "languages": [
     {
       "name": "JavaScript",
-      "percent": 23.0,
+      "percent": 22.3,
       "color": "#f7df1e"
     },
     {
       "name": "TypeScript",
-      "percent": 15.7,
+      "percent": 15.2,
       "color": "#3178c6"
     },
     {
       "name": "C#",
-      "percent": 15.4,
+      "percent": 14.9,
       "color": "#512bd4"
     },
     {
       "name": "Rust",
-      "percent": 14.1,
+      "percent": 13.6,
       "color": "#dea584"
     },
     {
       "name": "HTML",
-      "percent": 8.1,
+      "percent": 9.9,
       "color": "#e34f26"
     },
     {
       "name": "Kotlin",
-      "percent": 5.9,
+      "percent": 5.7,
       "color": "#7f52ff"
     },
     {
       "name": "Outras",
-      "percent": 17.8,
+      "percent": 18.3,
       "color": "#77608e"
     }
   ],
@@ -169,5 +169,5 @@
       "glyph": "S"
     }
   ],
-  "updatedAt": "2026-10-21 14:01 UTC"
+  "updatedAt": "2026-10-22 04:43 UTC"
 }
