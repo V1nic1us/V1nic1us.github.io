@@ -9,20 +9,7 @@
     "stars": 1,
     "forks": 0,
     "url": "https://github.com/V1nic1us/V1nic1us",
-    "pushedAt": "2026-10-27T02:37:35Z",
-    "topics": []
-  },
-  {
-    "name": "bloqueador-de-chamadas",
-    "description": "",
-    "language": "Kotlin",
-    "languages": [
-      "Kotlin"
-    ],
-    "stars": 0,
-    "forks": 0,
-    "url": "https://github.com/V1nic1us/bloqueador-de-chamadas",
-    "pushedAt": "2026-10-27T00:39:21Z",
+    "pushedAt": "2026-10-27T16:56:07Z",
     "topics": []
   },
   {
@@ -36,7 +23,20 @@
     "stars": 1,
     "forks": 0,
     "url": "https://github.com/V1nic1us/V1nic1us.github.io",
-    "pushedAt": "2026-10-26T18:41:30Z",
+    "pushedAt": "2026-10-27T05:03:49Z",
+    "topics": []
+  },
+  {
+    "name": "bloqueador-de-chamadas",
+    "description": "",
+    "language": "Kotlin",
+    "languages": [
+      "Kotlin"
+    ],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/bloqueador-de-chamadas",
+    "pushedAt": "2026-10-27T00:39:21Z",
     "topics": []
   },
   {
