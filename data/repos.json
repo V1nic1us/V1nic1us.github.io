@@ -9,21 +9,21 @@
     "stars": 1,
     "forks": 0,
     "url": "https://github.com/V1nic1us/V1nic1us",
-    "pushedAt": "2026-11-19T04:45:05Z",
+    "pushedAt": "2026-11-19T19:40:36Z",
     "topics": []
   },
   {
     "name": "nix-config",
     "description": "Configuração Nix portátil com Home Manager e NixOS",
-    "language": "Nix",
+    "language": "Shell",
     "languages": [
-      "Nix",
-      "Shell"
+      "Shell",
+      "Nix"
     ],
     "stars": 0,
     "forks": 0,
     "url": "https://github.com/V1nic1us/nix-config",
-    "pushedAt": "2026-11-18T21:46:57Z",
+    "pushedAt": "2026-11-19T16:12:06Z",
     "topics": []
   },
   {
@@ -37,7 +37,7 @@
     "stars": 1,
     "forks": 0,
     "url": "https://github.com/V1nic1us/V1nic1us.github.io",
-    "pushedAt": "2026-11-18T20:30:14Z",
+    "pushedAt": "2026-11-19T07:24:21Z",
     "topics": []
   },
   {

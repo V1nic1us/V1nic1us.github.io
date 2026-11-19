@@ -11,7 +11,7 @@
   "languages": [
     {
       "name": "JavaScript",
-      "percent": 21.0,
+      "percent": 20.9,
       "color": "#f7df1e"
     },
     {
@@ -31,7 +31,7 @@
     },
     {
       "name": "Kotlin",
-      "percent": 10.8,
+      "percent": 10.7,
       "color": "#7f52ff"
     },
     {
@@ -41,7 +41,7 @@
     },
     {
       "name": "Outras",
-      "percent": 17.8,
+      "percent": 18.1,
       "color": "#77608e"
     }
   ],
@@ -169,5 +169,5 @@
       "glyph": "S"
     }
   ],
-  "updatedAt": "2026-11-19 07:24 UTC"
+  "updatedAt": "2026-11-19 20:36 UTC"
 }
