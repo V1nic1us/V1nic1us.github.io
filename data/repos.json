@@ -9,7 +9,21 @@
     "stars": 1,
     "forks": 0,
     "url": "https://github.com/V1nic1us/V1nic1us",
-    "pushedAt": "2026-11-19T19:40:36Z",
+    "pushedAt": "2026-11-20T04:36:24Z",
+    "topics": []
+  },
+  {
+    "name": "V1nic1us.github.io",
+    "description": "",
+    "language": "HTML",
+    "languages": [
+      "HTML",
+      "Python"
+    ],
+    "stars": 1,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/V1nic1us.github.io",
+    "pushedAt": "2026-11-19T20:36:10Z",
     "topics": []
   },
   {
@@ -24,20 +38,6 @@
     "forks": 0,
     "url": "https://github.com/V1nic1us/nix-config",
     "pushedAt": "2026-11-19T16:12:06Z",
-    "topics": []
-  },
-  {
-    "name": "V1nic1us.github.io",
-    "description": "",
-    "language": "HTML",
-    "languages": [
-      "HTML",
-      "Python"
-    ],
-    "stars": 1,
-    "forks": 0,
-    "url": "https://github.com/V1nic1us/V1nic1us.github.io",
-    "pushedAt": "2026-11-19T07:24:21Z",
     "topics": []
   },
   {
