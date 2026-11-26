@@ -9,7 +9,18 @@
     "stars": 1,
     "forks": 0,
     "url": "https://github.com/V1nic1us/V1nic1us",
-    "pushedAt": "2026-11-25T20:45:28Z",
+    "pushedAt": "2026-11-26T05:41:23Z",
+    "topics": []
+  },
+  {
+    "name": "mcp-LinkedIn",
+    "description": "Rust MCP server for LinkedIn profile drafts and confirmed text posts",
+    "language": "",
+    "languages": [],
+    "stars": 0,
+    "forks": 0,
+    "url": "https://github.com/V1nic1us/mcp-LinkedIn",
+    "pushedAt": "2026-11-26T05:10:07Z",
     "topics": []
   },
   {
@@ -23,7 +34,7 @@
     "stars": 1,
     "forks": 0,
     "url": "https://github.com/V1nic1us/V1nic1us.github.io",
-    "pushedAt": "2026-11-25T08:32:31Z",
+    "pushedAt": "2026-11-25T21:41:21Z",
     "topics": []
   },
   {
